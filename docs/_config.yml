@@ -22,13 +22,13 @@ title: Alexader's awesome blogs
 email: tyxj58@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This my personal blogs about what i have learnt over these years.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "alexader.github.io" # the subpath of your site, e.g. /blog
+url: "https://alexader.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Alexader
 github_username:  Alexader
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
